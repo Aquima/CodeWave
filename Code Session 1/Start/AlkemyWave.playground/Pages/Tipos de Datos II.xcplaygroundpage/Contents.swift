@@ -160,3 +160,10 @@ var maslibros = [123: "La vuelta al mundo en 80 días",
 145: "Relatos de un náufrago",
 274: "El Aleph"]
 maslibros[274] = nil // Eliminamos "El Aleph"
+
+class Vehicule {
+    
+}
+class sfsdf {
+    
+}
